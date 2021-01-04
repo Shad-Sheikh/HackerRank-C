@@ -14,3 +14,5 @@ My Work on HackerRank in C Language
 
 6.[Conditional Statements in C](https://github.com/Shad-Sheikh/HackerRank-C/blob/main/ALL%20PROGRAMS/Conditional%20Statements%20in%20C)
 
+7.[For Loop in C](https://github.com/Shad-Sheikh/HackerRank-C/blob/main/ALL%20PROGRAMS/For%20Loop%20in%20C)
+
