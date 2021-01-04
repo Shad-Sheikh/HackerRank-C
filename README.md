@@ -2,7 +2,7 @@
 
 My Work on HackerRank in C Language
 
-1.["Hello World!" in C](https://github.com/Shad-Sheikh/HackerRank-C/blob/main/%22Hello%20World!%22%20in%20C)
+1.["Hello World!" in C](https://github.com/Shad-Sheikh/HackerRank-C/tree/main/ALL%20PROGRAMS)
 
 2.[Playing With Characters]()
 
