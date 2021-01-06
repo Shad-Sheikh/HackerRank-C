@@ -16,4 +16,4 @@ My Work on HackerRank in C Language
 
 7.[For Loop in C](https://github.com/Shad-Sheikh/HackerRank-C/blob/main/ALL%20PROGRAMS/For%20Loop%20in%20C)
 
-8.[Sum of Digits of a Five Digit Number]()
+8.[Sum of Digits of a Five Digit Number](https://github.com/Shad-Sheikh/HackerRank-C/blob/main/ALL%20PROGRAMS/Sum%20of%20Digits%20of%20a%20Five%20Digit%20Number)
